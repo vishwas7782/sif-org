@@ -1,0 +1,199 @@
+.Logo1 {
+    text-align: center;
+    /* background-color: rgb(205, 255, 220); */
+    padding: 1px;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.Logoimg1 {
+    padding: 5px;
+    border-radius: 15px;
+}
+
+/* .boder{border: 6px solid rgb(77 47 55 / 56%); border-radius: 10px; margin-bottom: 0;} */
+.orgname1 {
+    text-align: center;
+}
+
+.mainbg {
+    background-color: rgb(244, 235, 224);
+    margin-top: 0;
+}
+
+.navbar {
+    background-color: rgb(5, 5, 76);
+    border-radius: 10px;
+    
+}
+.navlogo1{float: left;
+    box-sizing: border-box;
+    list-style: none;
+    margin: 15px 20px ;
+    
+}
+.navbarlists {
+    float: left;
+    list-style: none;
+    margin: 15px 20px;
+    
+}
+
+.navbar ul {
+    overflow: auto;
+    
+ 
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+.navbar li a:hover {
+    color: rgb(218, 7, 98);
+}
+
+.search {
+    float: right;
+    padding: 15px 5px;
+    margin-right:10px;
+    border-radius: 4px;
+}
+
+.name1 {
+    color: rgb(252, 252, 252);
+    background-color: rgb(121, 9, 65);
+    font: bolder;
+}
+
+.allelements {
+    background-color: rgb(250, 226, 205);
+    border: 5px solid purple;
+    margin: auto;
+    width: auto;
+    height: 200px;
+}
+
+/* .Visionspara{ color: rgb(1, 29, 53); padding: 10px; margin: 0.1em;} */
+.wedolist1 {
+    margin: 0;
+    padding: 0;
+}
+
+.element1head {
+    color: azure;
+    background-color: rgb(121, 9, 65);
+    width: auto;
+}
+
+.element2head,
+.element3head {
+    color: azure;
+    background-color: rgb(121, 9, 65);
+    width: auto;
+}
+
+.element4head {
+    color: azure;
+    background-color: rgb(121, 9, 65);
+    width: auto;
+}
+
+.element1,
+.element2,
+.element3,
+.element4 {
+    border: 5px solid grey;
+    margin: 12px 3px;
+    padding: 12px 3px;
+}
+
+/* .element1{} */
+/* .element2 {float: left; width: 50%;}
+.element3{float: right; width: 50%;} */
+#visionelement {
+    padding-top: 0;
+    float: left;
+    width: auto;
+    height: 158px;
+    margin-left: 20px;
+}
+
+#whatwedoelement {
+    padding-top: 0;
+    float: left;
+    width: auto;
+    height: 159px;
+    margin-left: 20px;
+}
+
+#whywedoelement {
+    padding-top: 0;
+    float: left;
+    width: auto;
+    height: 158px;
+    margin-left: 20px;
+}
+
+#whoweareelement {
+    padding-top: 0;
+    float: left;
+    width: auto;
+    height: 158px;
+    margin-left: 20px;
+}
+
+.readmore {
+    padding: 1px;
+    font-size: 14px;
+    border-radius: 3px;
+    color: rgb(11, 133, 54);
+}
+
+.readmore:hover {
+    color: rgb(131, 177, 110);
+    background-color: aliceblue;
+}
+
+.founder {
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(29, 6, 66);
+}
+
+.founderimg {
+    padding-left: 10px;
+    padding-top: 10px;
+    float: left;
+    width: 12%;
+}
+
+.founderpara {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#formheadline {
+    background-color: aquamarine;
+    width: 700px;
+}
+
+.form {
+    padding-left: 10px;
+}
+
+/* .Questions{background-color: rgb(220, 138, 17); font-family: cursive;} */
+.Visionspara {
+    padding: 10px;
+}
+
+#mainfooter {
+    background-color: rgb(220, 138, 17);
+    font-family: cursive;
+    margin: 0;
+    padding-left: 10px;
+}
